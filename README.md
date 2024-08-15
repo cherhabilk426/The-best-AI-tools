@@ -17,6 +17,8 @@
 
 # theses dissertation doctoral    
     1- https://oatd.org/
+    2- https://opendissertations.org/
+    3- https://etheses.whiterose.ac.uk/view/iau/
 
 # Reference    
     1- https://www.citefast.com/?s=APA
