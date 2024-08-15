@@ -23,3 +23,6 @@
 
 # paraphraser un texte
     1- https://bypassgpt.ai/
+
+# Equation in latex
+    1- https://latexeditor.lagrida.com/
