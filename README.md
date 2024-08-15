@@ -11,7 +11,7 @@
              3- https://contentatscale.ai/ai-content-detector/
 
 # create question in scientific paper
-    1- https://studybites.ai/
+    1- https://bites.shaguf.com/library
 # answer the paper scientific 
     1- https://consensus.app/search/
 
