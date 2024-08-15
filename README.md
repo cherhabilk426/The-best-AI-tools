@@ -11,5 +11,5 @@
              3- https://contentatscale.ai/ai-content-detector/
 
 
-# answer the paper scientific 
-1- https://consensus.app/search/
+# answer the paper scientific: 
+                             1- https://consensus.app/search/
