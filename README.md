@@ -10,7 +10,8 @@
              2- https://undetectable.ai/
              3- https://contentatscale.ai/ai-content-detector/
 
-
+# create question in scientific paper
+    1- https://studybites.ai/
 # answer the paper scientific 
     1- https://consensus.app/search/
 
@@ -19,3 +20,6 @@
 
 # Reference    
     1- https://www.citefast.com/?s=APA
+
+# paraphraser un texte
+    1- https://bypassgpt.ai/
