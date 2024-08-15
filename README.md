@@ -4,9 +4,9 @@ lien.    https://www.mohamedansary.com/tools/?fbclid=IwZXh0bgNhZW0CMTEAAR1BFLLzc
 
 # explain images: https://www.hotbot.com/
 
-AI Detector: 1- https://gptzero.me/
+# AI Detector: 1- https://gptzero.me/
              2- https://undetectable.ai/
              3- https://contentatscale.ai/ai-content-detector/
 
 
-# answer the paper scientific 
+# answer the paper scientific 1- https://consensus.app/search/
