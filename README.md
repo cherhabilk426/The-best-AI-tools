@@ -4,6 +4,7 @@
 
 # Claude 3.5 coding
     1- https://zip-file-merger.vercel.app/?fbclid=IwZXh0bgNhZW0CMTEAAR1UQcZPGq1hWrsun8D0qGCl78lxS1UiMqpt84YjeaVa0j58FuOoIKSRZgI_aem_rWFGUl_flVK83v5nFFG3nw
+    2- https://claude.ai/new
 # explain images
     1- https://www.hotbot.com/
 
