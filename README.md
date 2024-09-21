@@ -36,3 +36,4 @@
     1- https://atcold.github.io/NYU-DLSP21/  
     2- https://www.youtube.com/watch?v=mTtDfKgLm54&list=PLgF7i4LH-YxacgG0OPmTYe1UUQAvcw9Ke&index=1
     3- https://atcold.github.io/book.html
+    4- https://www.deeplearningbook.org/
