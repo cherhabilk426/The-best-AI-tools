@@ -43,3 +43,13 @@
     3- https://atcold.github.io/book.html
     4- https://www.deeplearningbook.org/
     5- http://introtodeeplearning.com/
+
+# sci-hub 2024
+
+    1- http://sci-hub.ee. 
+    2- http://sci-hub.xin.
+    3- http://sci-hub.ai
+    4- https://sci-hub.st. 
+    5- https://sci-hub.se.
+    6- https://sci-hub.do.
+    
