@@ -61,5 +61,7 @@
     5- Complex and Intelligent Systems (Class A and  first decision median 16 days and Publishing model Open access) : https://link.springer.com/journal/40747/submission-guidelines
     6- Nuclear Science and Techniques: https://link.springer.com/journal/41365
     7- Multimedia Systems: https://link.springer.com/journal/530
+    8- Physics in Medicine and Biology (Class A): https://iopscience.iop.org/journal/0031-9155
+
 
 
