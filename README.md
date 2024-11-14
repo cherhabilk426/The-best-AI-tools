@@ -53,4 +53,13 @@
     4- https://sci-hub.st. 
     5- https://sci-hub.se.
     6- https://sci-hub.do.
-    
+# Journal of Computer Science
+    1- Engineering Applications of Artificial Intelligence : https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence
+    2- Journal of Real-Time Image Processing (Class A and  first decision median 1 days and Publishing model Hybrid): https://link.springer.com/journal/11554
+    3- Computing (Class A and  first decision median 7 days and Publishing model Hybrid) : https://link.springer.com/journal/607/submission-guidelines
+    4- Journal of Computer Science and Technology (and Publishing model Hybrid): https://link.springer.com/journal/11390
+    5- Complex and Intelligent Systems (Class A and  first decision median 16 days and Publishing model Open access) : https://link.springer.com/journal/40747/submission-guidelines
+    6- Nuclear Science and Techniques: https://link.springer.com/journal/41365
+    7- Multimedia Systems: https://link.springer.com/journal/530
+
+
