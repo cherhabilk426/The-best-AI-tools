@@ -62,6 +62,7 @@
     6- Nuclear Science and Techniques: https://link.springer.com/journal/41365
     7- Multimedia Systems: https://link.springer.com/journal/530
     8- Physics in Medicine and Biology (Class A): https://iopscience.iop.org/journal/0031-9155
+    9- Journal of Electronic Imaging (Class A) : https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging?SSO=1
 
 
 
