@@ -71,6 +71,7 @@
     15- Applied Intelligence (A): https://link.springer.com/journal/10489
     16- Multimedia Tools and Applications (A): https://link.springer.com/journal/11042
     17- SN Computer Science (B): https://link.springer.com/journal/42979
+    18- Neural Computing and Applications: https://link.springer.com/journal/521
 
 
 
