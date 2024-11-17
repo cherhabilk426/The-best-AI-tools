@@ -66,6 +66,10 @@
     10- PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART H-JOURNAL OF ENGINEERING IN MEDICINE : https://journals.sagepub.com/home/pih?_gl=1*1xp70w6*_ga*MjEzNDkxMDY4OS4xNzExNzUzNTgw*_ga_60R758KFDG*MTczMTc0MjE5MC4yLjEuMTczMTc0MjI0Ni40LjAuMA..
     11- Journal of Imaging Informatics in Medicine: https://link.springer.com/journal/10278
     12- Journal of King Saud University - Computer and Information Sciences: https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences
+    13- Scientific Reports (A): https://www.nature.com/srep/
+    14- Discover Artificial Intelligence (B): https://link.springer.com/journal/44163
+    15- Applied Intelligence (A): https://link.springer.com/journal/10489
+    16- Multimedia Tools and Applications (A): https://link.springer.com/journal/11042
 
 
 
