@@ -65,6 +65,7 @@
     9- Journal of Electronic Imaging (Class A) : https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging?SSO=1
     10- PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS PART H-JOURNAL OF ENGINEERING IN MEDICINE : https://journals.sagepub.com/home/pih?_gl=1*1xp70w6*_ga*MjEzNDkxMDY4OS4xNzExNzUzNTgw*_ga_60R758KFDG*MTczMTc0MjE5MC4yLjEuMTczMTc0MjI0Ni40LjAuMA..
     11- Journal of Imaging Informatics in Medicine: https://link.springer.com/journal/10278
+    12- Journal of King Saud University - Computer and Information Sciences: https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences
 
 
 
