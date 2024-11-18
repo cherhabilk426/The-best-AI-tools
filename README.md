@@ -73,6 +73,10 @@
     17- SN Computer Science (B): https://link.springer.com/journal/42979
     18- Neural Computing and Applications: https://link.springer.com/journal/521
     19- International Journal of Computer Vision (A): https://link.springer.com/journal/11263 
+    20- International Journal of Computer Assisted Radiology and Surgery (Class A 8j): https://link.springer.com/journal/11548
+    21- MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Class A 43j): https://link.springer.com/journal/11517
+    22- ANNALS OF BIOMEDICAL ENGINEERING (Class A 6j): https://link.springer.com/journal/10439
+    23- Visual Computer (Class A): https://link.springer.com/journal/371
 
 
 
