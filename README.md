@@ -69,14 +69,14 @@
     13- Scientific Reports (A): https://www.nature.com/srep/
     14- Discover Artificial Intelligence (B): https://link.springer.com/journal/44163
     15- Applied Intelligence (A): https://link.springer.com/journal/10489
-    16- Multimedia Tools and Applications (A): https://link.springer.com/journal/11042
-    17- SN Computer Science (B): https://link.springer.com/journal/42979
-    18- Neural Computing and Applications: https://link.springer.com/journal/521
-    19- International Journal of Computer Vision (A): https://link.springer.com/journal/11263 
+    16- Multimedia Tools and Applications (Class A 28j): https://link.springer.com/journal/11042
+    17- SN Computer Science (Class B 32j): https://link.springer.com/journal/42979
+    18- Neural Computing and Applications (Class B 16j): https://link.springer.com/journal/521
+    19- International Journal of Computer Vision (Class A 33j): https://link.springer.com/journal/11263 
     20- International Journal of Computer Assisted Radiology and Surgery (Class A 8j): https://link.springer.com/journal/11548
     21- MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Class A 43j): https://link.springer.com/journal/11517
     22- ANNALS OF BIOMEDICAL ENGINEERING (Class A 6j): https://link.springer.com/journal/10439
-    23- Visual Computer (Class A): https://link.springer.com/journal/371
+    23- Visual Computer (Class A 2j): https://link.springer.com/journal/371
 
 
 
