@@ -77,7 +77,7 @@
     21- MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING (Class A 43j): https://link.springer.com/journal/11517
     22- ANNALS OF BIOMEDICAL ENGINEERING (Class A 6j): https://link.springer.com/journal/10439
     23- Visual Computer (Class A 2j): https://link.springer.com/journal/371
-    24- International Journal of Multimedia Information Retrieval (Class A):https://link.springer.com/journal/13735
+    24- International Journal of Multimedia Information Retrieval (Class A 27j):https://link.springer.com/journal/13735
     25- Signal, Image and Video Processing (Class B 4j):https://link.springer.com/journal/11760
     26- JOURNAL OF MEDICAL SYSTEMS (Class A 12j): https://link.springer.com/journal/10916
     27- Machine Vision and Applications (Class A 20j): https://link.springer.com/journal/138
