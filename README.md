@@ -83,6 +83,7 @@
     27- Machine Vision and Applications (Class A 20j): https://link.springer.com/journal/138
     28- Health and Technology (Class B 24j): https://link.springer.com/journal/12553
     29-  Frontiers of Computer Science (Class A): https://link.springer.com/journal/11704/contact-the-journal
+    30- Automatic Control and Computer Sciences (Class B): https://link.springer.com/journal/11950
 
 
 
