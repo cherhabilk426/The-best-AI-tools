@@ -2,6 +2,11 @@
 
     1- https://www.mohamedansary.com/tools/?fbclid=IwZXh0bgNhZW0CMTEAAR1BFLLzctntzfDRiN3Fbco4lr0UU9M2yAyq_ixP4xnuLv42jim-sD_IxEo_aem_zRHtM_6qQbCsZnC0GPjYiw
 
+# Research Title Generator
+
+    1- https://www.editpad.org/tool/research-title-generator
+
+
 # AI Creator Studio
 
     1- https://www.img2go.com/ar/result#j=cdf618de-0861-4ec1-8cb2-7442d4678e0c
