@@ -34,6 +34,9 @@
     2- https://opendissertations.org/
     3- https://etheses.whiterose.ac.uk/view/iau/
     4- https://www.proquest.com/
+# Masters/Doctoral Thesis Latex
+    1- https://www.latextemplates.com/template/masters-doctoral-thesis
+    
 
 # Reference    
     1- https://www.citefast.com/?s=APA
